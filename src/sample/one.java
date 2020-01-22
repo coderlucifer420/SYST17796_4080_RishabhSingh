@@ -16,8 +16,8 @@ public class one {
         }
         for (int i = 0; i < 3; i++) {
             System.out.println(movie);
-            
         }
+        System.out.println("New changes");
     }
 
 }
