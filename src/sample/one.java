@@ -22,5 +22,6 @@ public class one {
             for(int k=0; k<j; k++){
                 System.out.printf("*\t#");
             }
+        System.out.printf("\nNew changes");
     }
 }
