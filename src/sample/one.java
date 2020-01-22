@@ -16,8 +16,11 @@ public class one {
         }
         for (int i = 0; i < 3; i++) {
             System.out.println(movie);
-            
         }
+            System.out.println("Changes");
+            int j=10;
+            for(int k=0; k<j; k++){
+                System.out.printf("*\t#");
+            }
     }
-
 }
